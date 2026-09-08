@@ -1,6 +1,6 @@
 # Hi there, I'm Luboš 👋
 
-I'm a **DevOps/Cloud/Infrastructure Engineer** with more than a decade of experience in IT. I work across DevOps, infrastructure, and cloud engineering, connecting the pieces into reliable platforms that are simple to operate.
+I'm a **DevOps/Cloud/Infrastructure Engineer** with more than a decade of experience in IT. I build and operate reliable platforms, automate repetitive work, and make infrastructure easier to manage.
 
 ## ⚙️ How I work
 
