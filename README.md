@@ -1,29 +1,32 @@
 # Hi there, I'm Luboš 👋
 
-I'm a **DevOps Engineer** with 10 years of experience in IT, passionate about automation, cloud, and infrastructure as code. I enjoy solving complex problems and continuously learning new technologies.
+I'm a **DevOps/Cloud/Infrastructure Engineer** with more than a decade of experience in IT. I build and operate reliable platforms, automate repetitive work, and make infrastructure easier to manage.
 
-## 🚀 Skills & Technologies
+## ⚙️ How I work
 
-- **Infrastructure as Code:** Terraform, Terragrunt, Ansible
+I like removing repetitive work wherever I find it. Sometimes that means a small Bash or Python script, sometimes laptop provisioning or infrastructure as code. I also build CI/CD pipelines that make delivery predictable and repeatable.
+
+I believe we need to measure systems to understand whether they work. Monitoring and observability are part of how I design, operate, and improve infrastructure.
+
+On-call rotations and production incidents taught me to stay systematic under pressure, follow the evidence, and look for the root cause. I enjoy understanding how Kubernetes, networking, security, cloud infrastructure, and delivery fit together, and making those systems easier for people to use.
+
+## 🛠️ Tools I use
+
+- **Infrastructure as code:** Terraform, Terragrunt, Ansible
 - **GitOps:** ArgoCD, Flux2
-- **Cloud:** Azure, GCP
-- **Containerization & Orchestration:** Kubernetes, Docker
-- **Scripting & Automation:** Bash, Python
+- **Cloud:** GCP, Azure
+- **Containers and orchestration:** Kubernetes, Docker
+- **Scripts and automation:** Bash, Python
 - **Monitoring:** Datadog, Grafana
 
-## 🌐 Connect with me
+## 🏍️ Outside work
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luboszima/)](https://www.linkedin.com/in/luboszima/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/luboszima)  
+I run a homelab with physical servers and a Kubernetes cluster hosting services I use every day. It is where I experiment, break things safely, and learn how tools behave outside tutorials. Away from the screen, I enjoy cycling, riding and servicing motorcycles, sewing medieval costumes, and saunas. I also design and 3D-print motorcycle parts and build small projects with ESP32 boards and sensors.
 
-## 💡 What I Do
+## 📬 Get in touch
 
-- Occasionally contributing to open source projects
-- Sharing knowledge and helping the community
-- Managing and experimenting with self-hosted services in my homelab
+I am open to short-term and long-term opportunities. Most of my professional work lives in private repositories, but I occasionally contribute to open-source projects too.
 
-## ⚡ Fun Facts
+Have an infrastructure problem or an interesting idea? Send me a message.
 
-- 🏍️ I love riding and servicing motorcycles
-- 🧵 I sew medieval costumes
-- 🧖 I enjoy saunas
+[Website](https://lzima.dev) · [LinkedIn](https://www.linkedin.com/in/luboszima/) · [Email](mailto:lubos.zima@gmail.com)
